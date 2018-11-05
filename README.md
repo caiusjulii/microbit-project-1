@@ -3,3 +3,5 @@
 Press A To Play.
 This is the basic game.
 the only change is that it is Press A, Insted of Shake.
+All 5 Weapons are in the code.
+
